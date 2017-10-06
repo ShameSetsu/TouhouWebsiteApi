@@ -1,0 +1,11 @@
+{
+	"name": "touhouwebsiteapi",
+	"main": "server.js",
+	"version": "0.0.0",
+	"private": true,
+	"dependencies": {
+		"express": "4.16.1",
+		"mongoose": "4.12.0",
+		"body-parser": "1.18.2"
+	}
+}
